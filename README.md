@@ -1,5 +1,5 @@
-# SQL-Excel-PowerBI-Project
 Coffee Sales Dashboard
+
 An Excel-based sales analytics dashboard for a coffee business, tracking orders, revenue, product performance, and customer insights across multiple countries from 2019 to 2022.
 
  Dashboard Overview
